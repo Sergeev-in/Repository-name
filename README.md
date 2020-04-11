@@ -1,2 +1,2 @@
 # myproject
-Novsgdfgd
+Magic takes time!
