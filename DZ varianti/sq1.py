@@ -24,3 +24,4 @@ if D > 0:
 if D==0:
     x = -b/(2*a)
     print('x=', x)
+    
