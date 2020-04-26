@@ -71,3 +71,4 @@ app = QtWidgets.QApplication([])
 window = MessengerWindow()
 window.show()  # при вызове данного метода он отрисовывает окошко со всеми кнопками
 app.exec_()
+
